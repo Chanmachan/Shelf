@@ -1,4 +1,4 @@
-void	ccompression(int *num, int args)
+void	bubble_sort(int *num, int args)
 {
 	int		tmp;
 	size_t	n;
